@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "045BD9D7-CDBD-4003-BB1B-940A2125D7FC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 16199,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A5DCB45-D6DC-44FE-A35F-A3F567A93BB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CD10DD5-FCFB-4D3F-B575-31EEB9876171",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E4B76D0-F607-42A6-B6D6-663D9FA8237B",
+    "height": 40,
+    "width": 40,
+    "x": 14855,
+    "y": 790
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A20156A6-31DD-44DE-8AB3-3F17D509A2A2",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3A94763D-56E1-4E80-9081-39E8FC19A942",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6F9B9F3C-8C29-4CA6-8F85-E1210E08C98E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "do_objectID": "518FDE5B-16BE-4871-833F-47E54A0C67EB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "Tabs / Icon / round collapse",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04583B5E-4206-4026-8C06-76E111A62631",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D37D06EB-479A-407D-9AA3-A5BF6A228C3A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4824B373-427C-4C18-9892-15F71424DEDF",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B16EA8B-06FA-42CF-9A76-1BAF86B593FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 331,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B16D7F73-6059-463C-92B2-1DCCEFCB9B53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5C44A01-DB98-484F-BF90-50734528275E"
+    },
+    {
+      "class": "group",
+      "id": "7928A1F2-CDDB-4BB0-B675-680B06FA3BDA"
+    },
+    {
+      "class": "text",
+      "id": "26C57953-608F-437B-B348-D0B4851CDEE9"
+    },
+    {
+      "class": "text",
+      "id": "FF4BED27-E695-4496-A607-EB703CCFE9F1"
+    }
+  ],
+  "name": "element/list/calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

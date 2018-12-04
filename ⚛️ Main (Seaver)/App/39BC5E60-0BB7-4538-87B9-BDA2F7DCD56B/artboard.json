@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "8627516F-615F-42FA-92A4-5EBC84CA20A8",
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "39BC5E60-0BB7-4538-87B9-BDA2F7DCD56B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6DCDF3E-EB99-4F17-BB42-47786F04438E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91574502-AB2B-4611-B83C-7AAB95BDE72C",
+    "height": 640,
+    "width": 360,
+    "x": -16729,
+    "y": -14890
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "2A43C53F-F628-45F9-B936-1660DDA8437A",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0EAA5EE5-216D-409D-AFFE-CB0B54E6A3E7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "42B5DEED-C6E5-44F8-8327-E487292E8C1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8687E22C-4AA3-460E-8591-11DEF91B3398"
+    },
+    {
+      "class": "text",
+      "id": "6D2EB857-D11E-4508-94A7-BEC2F2913FDA"
+    },
+    {
+      "class": "text",
+      "id": "C511CE08-80E6-4655-9101-67E3783ABB02"
+    },
+    {
+      "class": "bitmap",
+      "id": "9CF2C08B-848E-4229-8A98-C1373E42A529"
+    },
+    {
+      "class": "text",
+      "id": "5FA65530-43CF-48B5-B558-2D95D8DE5111"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76117D89-3E20-40FF-A38D-071A42F5A811"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "tuto-phone / 2 / Decouvrez seaver",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3AD20CA5-BA17-41C2-B61C-ED6C4EE5ADC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "75C89F54-CCDE-47F1-85E1-BCF1BC1F65AE",
+    "guides": [
+    ]
+  }
+}

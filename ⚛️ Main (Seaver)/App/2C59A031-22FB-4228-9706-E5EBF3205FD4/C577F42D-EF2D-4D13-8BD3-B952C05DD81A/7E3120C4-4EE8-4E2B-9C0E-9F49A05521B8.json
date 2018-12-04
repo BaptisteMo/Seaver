@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E3120C4-4EE8-4E2B-9C0E-9F49A05521B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "257D5AA7-C6B7-4D62-9B2E-7435A5073E6E",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Avatar 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "595FD71D-706D-4154-99BF-EF46261FC977_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a4adf7164e1b0561dd26e3d734beccd3cba13fa5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88CBD887-B878-452E-BB67-6FFF286FA40B_stringValue",
+      "value": "POMME"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEB85AA0-563D-4512-8838-5E8526F10E9E",
+      "overrideName": "5557903C-672C-41AC-8C7E-1DF7F787B775_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A17625B1-6194-4013-8AEA-2F905FDA4125",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10698BE7-F0A6-4995-869F-734AEB34E8B3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F923D7C-D845-4285-907D-3B8E778A42F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28206B15-F906-4411-A093-E22AA3248E48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "2A958A28-CEBE-4DBD-8EC9-9442088A3CCD",
+    "do_objectID": "C540C13B-BCE0-4455-A841-9FF11CD165C6"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CA7D3D1-8214-4919-B904-40726D564AA3",
+    "height": 40,
+    "width": 160,
+    "x": 100,
+    "y": 512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons - connection",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E93A61B0-20E2-4459-A85E-F089B09BFDBD",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E_symbolID",
+      "value": "B519DBEE-B6A4-4B3D-9D15-BBFECDDEB7B2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5977DDA6-8313-4542-AD04-58311347EF94",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Connection"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "500C93F9-9DD4-4538-8D20-332577D4133F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

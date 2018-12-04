@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF056616-526D-49BD-8871-E92E6A276A43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
+    "x": 29,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Add Contact",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7179FF94-C739-4D7D-8C07-47E178BE1587_symbolID",
+      "value": "32C1CB90-2F21-4A8E-A807-05C0C58FE4A0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "477BD39D-A8E5-4D7A-98F5-84B1BEAA329F_symbolID",
+      "value": "0FE21C0D-5707-418D-BE5A-3AA185327C43"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0FA302C-D364-4C70-B40E-993B90D53E65_symbolID",
+      "value": "0FE21C0D-5707-418D-BE5A-3AA185327C43"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FCDEF4A-4C0A-40D3-AC6D-32D15AD2A87B",
+      "overrideName": "57B73763-B561-4810-923A-8CF8445538B7_symbolID",
+      "value": "11906749-7E17-46DD-BC1C-45403C4C4C07"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B12D736-E78A-46F1-9FB9-EB85E7D828A8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_9ea27c07-1c73-457a-a3a1-5614b792c6b2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2c7e2ed2-e6e1-4ab3-aba3-df3e7b2b69f8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

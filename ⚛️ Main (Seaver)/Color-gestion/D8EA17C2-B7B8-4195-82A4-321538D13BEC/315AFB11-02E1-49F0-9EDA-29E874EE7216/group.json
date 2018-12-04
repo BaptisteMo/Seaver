@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "315AFB11-02E1-49F0-9EDA-29E874EE7216",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 720,
+    "y": 1908
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "138085DB-9CAD-4F3D-87A5-DFB0593A7AEE"
+    },
+    {
+      "class": "text",
+      "id": "A4061169-7BF5-4EF7-9E88-EA1CFDDBE7DC"
+    },
+    {
+      "class": "text",
+      "id": "30BAA5EF-CDE6-4DB7-81C0-1535A59DB566"
+    },
+    {
+      "class": "text",
+      "id": "CBFF49C9-8466-49B8-A004-8FDCAE369D40"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B46AD91-4396-413C-93CA-15FBBC1E7008"
+    },
+    {
+      "class": "rectangle",
+      "id": "DB789E7E-FB98-4F21-87E3-4070E3716944"
+    }
+  ],
+  "name": "Taupe gray",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.6,
+        "green": 0.5372549019607843,
+        "hex": "898999",
+        "name": "Taupe gray",
+        "red": 0.5372549019607843
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AFEFF94-8EB3-43A4-ACC2-6831C86B5763",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "5D127A8C-B791-4D5D-AA40-7C2BCC547E5B",
+    "do_objectID": "F7A27919-E0F3-4ACC-B3D3-73A20EF747EB"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 104,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button  Solo /small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C020CDBC-CEB2-4447-9446-FE5CCB696AB8",
+      "overrideName": "B2C9D432-3FB9-42A4-8885-F6CCE6FA0F99/B030F5C3-DDB2-4F2F-9084-271D11AB392A_stringValue",
+      "value": "Clear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B6689C7-AAE1-40E4-95DD-A7EFAB73D736",
+      "overrideName": "0E2EBD80-E3EB-44EB-AFF1-581E300855D3/EA93BEA1-56C2-4519-A72C-19A142A430A0_layerStyle",
+      "value": "E6DF2834-95A4-48E7-A879-221F7136156E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7EFE92EA-82C4-4AFC-B6D3-53C0F1D1A780",
+      "overrideName": "0E2EBD80-E3EB-44EB-AFF1-581E300855D3/16C82143-5720-4995-AD3A-5BCCD8EB7C1D_symbolID",
+      "value": "9136F944-EA1E-4917-BC31-573D3F93B9D1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "40BE9104-233A-4B52-897C-225AE6EFB7AE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

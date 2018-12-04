@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3C654C5-AEBB-4ED2-B5B5-BDEDAA230ADE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
+    "x": 29,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Add Contact",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0CD0F0C5-DCA3-4DC5-BA8B-115648A2FEEB_symbolID",
+      "value": "0FE21C0D-5707-418D-BE5A-3AA185327C43"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EFBB3123-EFDE-406C-A4DE-F825D0FB10D5_symbolID",
+      "value": "0FE21C0D-5707-418D-BE5A-3AA185327C43"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20D13931-9DDC-46D2-A2DF-A2304C0969AE",
+      "overrideName": "57B73763-B561-4810-923A-8CF8445538B7_symbolID",
+      "value": "11906749-7E17-46DD-BC1C-45403C4C4C07"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B12D736-E78A-46F1-9FB9-EB85E7D828A8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_b792d22f-8eea-48b6-8092-302646d3c88a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0bed7688-6df4-41f2-9e8b-3ae37fbc77f0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6ADD951B-3CEA-4649-9FB7-D2EB97C1B62D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "601079B7-CFF4-4089-A02A-F407696DE409",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E88564A-A572-4AA6-A31B-8621FA17F760",
+    "height": 371,
+    "width": 328,
+    "x": 16,
+    "y": 392
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A6B0E513-B80E-4E42-9E54-498D6BFD566B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "372570ED-CD65-4C08-87A5-5BC6EDAB3B2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "085E4D76-BC82-48EE-9E25-C9F769839696"
+    }
+  ],
+  "name": "Liste",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "947E2011-C559-4787-A251-783C93D35820",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_eaf41d24-73bd-47b6-a312-bce34618802d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_6ff37691-5ff0-4092-b076-c30fed21dd74",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 392,
+            "enabled": 1,
+            "modelID": "constraint_2d21ee2b-ff7f-40ba-926f-fa4d448253a5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isCollapsing": 1,
+        "spacing": 16,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A3E74EA-26A4-4B77-A572-1BD3318EAD56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 122,
+    "width": 328,
+    "x": 16,
+    "y": 570
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AB2C905D-0D64-4129-A6B2-327C9AB070BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "358420C1-3083-41F4-9030-05DAEFF1CE17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66A58ADD-0533-4F83-8E86-4A9FC586CF8A"
+    },
+    {
+      "class": "text",
+      "id": "B3870408-3251-413D-8327-350CA5C7A3A1"
+    }
+  ],
+  "name": "pregnant",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_b4319372-a7c3-418c-9474-37dcd80f65d9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 570,
+            "enabled": 1,
+            "modelID": "constraint_0fb6bdb6-6c35-408e-9b26-bf90032d0607",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}

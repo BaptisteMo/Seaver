@@ -1,0 +1,100 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5A4E42F3-D98D-4B76-B7FF-662209007E7D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 328,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAD04A6D-CDF5-42B3-8D60-2644778DB876",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "861A1891-32E4-476A-8F3B-384EFA3ECC2C",
+    "height": 512,
+    "width": 512,
+    "x": -12700,
+    "y": 1515
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2EE0F280-09C3-4E6A-9F43-95F8918B55CA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7DF4DF1A-4196-402E-9B78-1F1177A93A26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D3C5D2C-43F8-40BB-B987-B3E42CC85117"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F9C72C7-D0E6-402A-94B0-9BEAEE92890B"
+    }
+  ],
+  "name": "🐴 Autre /Radar",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "661AD504-4AAC-49D8-B35C-C763177C219C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "723687B8-4255-4566-AD6A-6D963C79DF77",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "0996B35C-567B-4ED2-9BD5-E2E9D097308B",
+      "padding": 32
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "070A46EA-FE3B-4134-BFC0-1A723FFBDCE9",
+    "guides": [
+    ]
+  }
+}

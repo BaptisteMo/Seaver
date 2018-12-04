@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "58356E1A-DC35-4BB2-8034-C8A8CC391E59",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 429,
+  "clippingMaskMode": 0,
+  "do_objectID": "09C5D371-DEE3-44FE-9CE6-E3D6A23E3E9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1BC77E8-2C35-445F-885D-E6BC7EA7CE69",
+    "height": 512,
+    "width": 512,
+    "x": -8416,
+    "y": -1857
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3EDAD434-853D-4A43-8FC4-5FF3FDD74AB8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "09793AD2-DE89-4EB5-87BB-A2D0B8F2B333"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56B995DA-DD50-4D5D-9CDF-0EB9C0CEC1F2"
+    }
+  ],
+  "name": " md-baseball",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "740872E4-C582-4A6A-A39E-FE99410261F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D3D6E05-6B4C-4872-85EA-77E58A7E9D9D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CAA44BF1-F1AA-4EB9-B2EC-DD8502DD4DD4",
+    "guides": [
+    ]
+  }
+}

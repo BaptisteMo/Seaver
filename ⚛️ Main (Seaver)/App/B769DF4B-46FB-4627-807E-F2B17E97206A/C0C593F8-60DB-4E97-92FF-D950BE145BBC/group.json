@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0C593F8-60DB-4E97-92FF-D950BE145BBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC627C3C-6C07-4010-8221-DAAEFD45828F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AAC065D-7EC6-401C-AD5D-A236DC74469D",
+    "height": 136,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4F6836B7-7A24-48FE-B808-A101BA6E917F"
+    },
+    {
+      "class": "bitmap",
+      "id": "C3779CC8-63C5-4CC3-AC12-0C6A8A6C98EB"
+    },
+    {
+      "class": "group",
+      "id": "DFA0BCF3-BC8C-4744-A9D1-1738F21D2F76"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACF7D84B-2200-4FF1-8401-71CF0F1C4A45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45877662-004C-4C5F-B96D-74BAE1497CC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15AF4414-7C83-4AF3-94DD-4F2FE61D1161"
+    },
+    {
+      "class": "text",
+      "id": "E0B85575-E3DE-42A3-A009-D0C14EC9E20E"
+    },
+    {
+      "class": "text",
+      "id": "4BA832BD-E747-4556-AC5E-7388991A8620"
+    }
+  ],
+  "name": "Toolbar / Calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C898D6F7-F673-40C4-97CE-AF0893E1F536",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

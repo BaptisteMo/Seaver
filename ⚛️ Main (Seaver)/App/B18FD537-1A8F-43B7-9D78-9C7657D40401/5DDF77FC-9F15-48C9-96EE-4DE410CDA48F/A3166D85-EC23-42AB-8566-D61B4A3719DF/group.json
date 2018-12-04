@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3166D85-EC23-42AB-8566-D61B4A3719DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 230,
+    "width": 328,
+    "x": 0,
+    "y": 264
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ABC7C670-A692-4B9D-BC98-C6D673AFFFB4"
+    },
+    {
+      "class": "group",
+      "id": "BBC77513-A010-4256-B47C-8B3920A56519"
+    },
+    {
+      "class": "text",
+      "id": "D06B7DC5-456E-4852-9844-0018B3CA6297"
+    },
+    {
+      "class": "text",
+      "id": "82EBCF9F-A5E8-4B25-B927-CDB5ADA61DFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC0EB4F5-A7D1-4F39-807A-77637F693B33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A52ECDB0-A3B5-4267-8A87-A12CDFC0B400"
+    }
+  ],
+  "name": "Cards / obstacle /",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

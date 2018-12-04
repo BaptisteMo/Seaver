@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAC93535-3558-4834-83CE-36E1BFD411C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 720,
+    "y": 1282
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ADACE9D6-050E-4113-A207-BFE445E87002"
+    },
+    {
+      "class": "text",
+      "id": "27B3EC6C-4728-4FFE-A896-F6C3EEE40E11"
+    },
+    {
+      "class": "text",
+      "id": "259BE689-D62F-41ED-9386-B720218A1944"
+    },
+    {
+      "class": "text",
+      "id": "AED985CF-5FD2-467B-9DB1-FB7B0DFE39A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "215FA85B-0B54-4911-9C44-2189CEA6FF5C"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E8F4A17-1BD5-4159-94A9-7BA3F617C610"
+    }
+  ],
+  "name": "Davy's grey",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.3490196078431372,
+        "green": 0.3372549019607843,
+        "hex": "585659",
+        "name": "Davy's grey",
+        "red": 0.3450980392156863
+      }
+    }
+  }
+}

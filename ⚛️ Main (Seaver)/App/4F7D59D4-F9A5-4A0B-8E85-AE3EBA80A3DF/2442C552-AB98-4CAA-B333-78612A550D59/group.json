@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2442C552-AB98-4CAA-B333-78612A550D59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "590C67A3-577C-4786-B26F-0329C71B39C0",
+    "height": 55,
+    "width": 177,
+    "x": 91,
+    "y": 297
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B58AEBD5-3276-40F0-B02E-2619FF7BE8FA"
+    },
+    {
+      "class": "text",
+      "id": "D4D247D7-074C-476B-97DA-E3B3F5E1C4BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D628B24-6113-4F5E-A9FF-67348C00734B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07F2AF66-8812-413A-9CF4-A7B4F0C817E1"
+    }
+  ],
+  "name": "Foulées",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "31393E77-85E8-454E-ADFA-0ED5F4EF7F17",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.787610619469028,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "82F52DA5-2D12-4BB3-9A4F-E44900F43359",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

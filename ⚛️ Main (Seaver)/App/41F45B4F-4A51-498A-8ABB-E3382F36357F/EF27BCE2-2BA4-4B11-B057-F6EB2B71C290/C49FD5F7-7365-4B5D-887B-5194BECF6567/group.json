@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C49FD5F7-7365-4B5D-887B-5194BECF6567",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FEA9B236-B614-4AEF-AD51-EE3F7F42D95A",
+    "height": 122,
+    "width": 328,
+    "x": 0,
+    "y": 123
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "91FBDD60-2BDC-475B-9B6F-7F4670B90956"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4C8379C-1396-4222-BB23-4E37C06AB35C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C70CC986-E3F7-4006-A47C-2FBFCE56CC3C"
+    },
+    {
+      "class": "text",
+      "id": "DD7E6F46-CB31-4DF8-AD78-F0477BE11D0B"
+    }
+  ],
+  "name": "pregnant",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18F96CC1-72B1-4289-AAF5-9BA208E90252",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

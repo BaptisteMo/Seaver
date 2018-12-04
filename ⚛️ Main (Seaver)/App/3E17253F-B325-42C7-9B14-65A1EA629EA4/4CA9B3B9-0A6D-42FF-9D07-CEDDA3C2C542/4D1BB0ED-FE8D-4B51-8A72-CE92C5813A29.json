@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D1BB0ED-FE8D-4B51-8A72-CE92C5813A29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF6F2936-9BE6-4A8B-9D39-D383AB6CC9C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "5D127A8C-B791-4D5D-AA40-7C2BCC547E5B",
+    "do_objectID": "9A208869-03AC-4B13-8ACA-5FC18BC1C455"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB54B72D-7F19-4512-BD0F-79F02AC2517C",
+    "height": 40,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Block / Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "852DE14A-D96C-46D6-B660-03534B4FA6CD",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/EA93BEA1-56C2-4519-A72C-19A142A430A0/1BD3525C-AECE-4412-B444-3A36A072CC74_symbolID",
+      "value": "7FF96171-DED4-49D4-A1ED-B06DBBE315B3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "512A37AA-84FD-4CB3-86DB-547513CE7092",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/16C82143-5720-4995-AD3A-5BCCD8EB7C1D_symbolID",
+      "value": "F01FB1F1-C7BB-4B45-AA05-A7D1E6EDB773"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6C783C1-A10F-49EA-9CCD-73AF9F7A471D",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Terminer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16A6E890-69A1-48FD-8C4F-E9D8D95A1846",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "3E17253F-B325-42C7-9B14-65A1EA629EA4",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

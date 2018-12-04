@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33D7F44B-B803-4A7E-A956-4B87F479EBBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E48B5BA-7988-4FC0-897F-66B4728A1768",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 1,
+    "destinationArtboardID": "0B665C38-5DE6-49C0-A072-42985DDCBBB1",
+    "do_objectID": "DFE9899C-9596-4F78-B68B-BD527CE5278B"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA3E2DC6-2361-4F21-AC22-399B8E88A0BD",
+    "height": 36,
+    "width": 132,
+    "x": 44,
+    "y": 562
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35D79B3F-61E4-4559-BF36-3549EFDD6CEA",
+      "overrideName": "7CB0A9C8-A640-4A4E-9555-23153187B2B9/24A8BD89-C231-482D-BBAA-14210CBC50FE_symbolID",
+      "value": "C6BC8D47-44D1-4D24-848D-6B5B697657F7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0CEAD23-AC91-4D63-BCC5-EB71E77011F3",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/16C82143-5720-4995-AD3A-5BCCD8EB7C1D_symbolID",
+      "value": "F01FB1F1-C7BB-4B45-AA05-A7D1E6EDB773"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E46ED70-E802-4A7A-8F18-83FA6698B8B7",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Precedent"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88E15E51-292A-4E11-BC23-A99CFAADCF22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "4D3AC728-9A80-46F5-9C9B-B7E9A7468C54",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

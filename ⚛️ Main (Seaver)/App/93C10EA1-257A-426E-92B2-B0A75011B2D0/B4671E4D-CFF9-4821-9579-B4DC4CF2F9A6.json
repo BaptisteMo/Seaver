@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4671E4D-CFF9-4821-9579-B4DC4CF2F9A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16A69890-873E-440A-8AB0-BA9BF26CE02B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C094B90-D909-4307-AEEA-0BECAC9560C8",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Top bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F2975BD-D687-42BD-9FDC-B811575559A6/2C8722DF-5340-44A1-A2A4-D856B5A213AE_stringValue",
+      "value": "MY HORSE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1088E21F-749A-4BCF-98A6-B065CA29AA91_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ABFA364C-FF45-4DC2-BF51-DD41C4CB9777_symbolID",
+      "value": "4D4F20A8-B189-4E6A-8870-2C5C3E220763"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F2975BD-D687-42BD-9FDC-B811575559A6/6D6AAE3E-0BB5-47B1-BB0B-1392A00EB886_stringValue",
+      "value": "Partager mon cheval"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA909495-1AE5-4523-899D-23D2CD5DE369",
+      "overrideName": "CE9F8C2D-C6BF-439B-8848-8E4123C9C3CA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "179863F2-6759-4FD0-9984-5C7038CBF85A",
+      "overrideName": "0820E10F-D918-415B-AAFD-137676A12D32_flowDestination",
+      "value": "back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C347F850-B038-479C-BF5D-0DFB46CC19C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A352455B-6A46-4D27-BADE-564E14325787",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "B090D746-BB0C-4E52-BF34-5C50C6F30369",
+      "transition": 2
+    }
+  },
+  "verticalSpacing": 0
+}

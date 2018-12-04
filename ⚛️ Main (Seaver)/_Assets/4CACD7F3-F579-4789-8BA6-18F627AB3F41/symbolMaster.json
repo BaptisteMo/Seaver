@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "58FC8F0E-8BE6-4480-B486-522311060F4F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1750,
+  "clippingMaskMode": 0,
+  "do_objectID": "4CACD7F3-F579-4789-8BA6-18F627AB3F41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF127383-68D3-4D23-B695-B7BE15FE63C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8378226-D7B9-4BB8-878D-7747472D3238",
+    "height": 152,
+    "width": 328,
+    "x": 27775,
+    "y": 75
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E2E457BF-A1FC-4725-B0D6-81FA8CFAFAD3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5FC10F30-D874-472C-9E88-24A8C7A84A9D"
+    },
+    {
+      "class": "text",
+      "id": "51BE1FFA-C0B2-4CC9-A6EF-53B0D26FBF7C"
+    },
+    {
+      "class": "text",
+      "id": "D0502CDF-92C7-45BE-A021-07CAFF22EDF9"
+    },
+    {
+      "class": "text",
+      "id": "7E3659E3-FA3C-4488-A6DD-A602E01F38B2"
+    },
+    {
+      "class": "text",
+      "id": "A02FCBBB-D20F-4C17-96B9-E4CA08871DD4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 24,
+    "do_objectID": "A808C7FC-1D4F-46EB-A014-1725C7761B7A",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 3.636363636363636,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 328
+  },
+  "name": "Card/Metrics+Tîtres",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "617BC8BF-8B4E-4D60-A281-3FF2D24F89F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5AF4793-7568-42B3-84F5-2CA10112DDC6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C0B17697-E0DE-4139-88B1-F1088963882B",
+    "guides": [
+    ]
+  }
+}

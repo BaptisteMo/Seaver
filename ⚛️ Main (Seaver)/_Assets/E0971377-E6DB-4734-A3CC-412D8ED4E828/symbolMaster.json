@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2232,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0971377-E6DB-4734-A3CC-412D8ED4E828",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 360,
+    "x": 8947,
+    "y": 893
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7F8D9968-C08A-4CC0-B1D5-BC4CC560A2C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0B6E59F-2395-4859-8D2F-709A1A6A8DB3"
+    },
+    {
+      "class": "group",
+      "id": "C80B494C-30A2-4E92-BA06-4B41A1228647"
+    },
+    {
+      "class": "group",
+      "id": "00687B11-76B4-4464-8DE1-12CBF09B3555"
+    },
+    {
+      "class": "rectangle",
+      "id": "3B4866B9-5AFD-4919-8394-ACA26B639D00"
+    },
+    {
+      "class": "rectangle",
+      "id": "43FD7E45-B86C-46A9-A922-2B71EECB8759"
+    },
+    {
+      "class": "oval",
+      "id": "19E6CE8E-4711-4DF9-84B7-4D0706EED26B"
+    },
+    {
+      "class": "oval",
+      "id": "E6C2661D-5A56-4B85-946A-23CDCFB60889"
+    }
+  ],
+  "name": "List / Range 3",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C9201FC-2A8A-4BD7-A4F5-7BB58863ECD0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

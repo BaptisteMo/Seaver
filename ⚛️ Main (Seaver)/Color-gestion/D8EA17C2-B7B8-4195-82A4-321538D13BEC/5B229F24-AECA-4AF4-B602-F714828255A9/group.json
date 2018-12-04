@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B229F24-AECA-4AF4-B602-F714828255A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 260,
+    "y": 1908
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D99FC5D8-DBC2-486D-90A5-2B5E2B3EE92E"
+    },
+    {
+      "class": "text",
+      "id": "5A2C38F3-90BD-4705-A907-BE4C355647F9"
+    },
+    {
+      "class": "text",
+      "id": "10A941F5-11CD-4768-90FC-0AE77EADCF32"
+    },
+    {
+      "class": "text",
+      "id": "2288D04A-EA55-4729-9D49-75FE17B005D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E4CF6BC-A9C7-4C65-A3CC-EC7BDF4B9848"
+    },
+    {
+      "class": "rectangle",
+      "id": "5925F411-691E-4BAE-AA3D-0E608F9B256E"
+    }
+  ],
+  "name": "Old lavender",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.5215686274509804,
+        "green": 0.3725490196078431,
+        "hex": "685F85",
+        "name": "Old lavender",
+        "red": 0.4078431372549019
+      }
+    }
+  }
+}

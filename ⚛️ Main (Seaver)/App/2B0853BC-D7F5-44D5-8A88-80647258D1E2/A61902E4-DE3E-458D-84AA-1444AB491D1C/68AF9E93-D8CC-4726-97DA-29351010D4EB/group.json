@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68AF9E93-D8CC-4726-97DA-29351010D4EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3FFA5E1-B8BE-42C0-B039-38E36FC635E4",
+    "height": 68,
+    "width": 328,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "715AB552-60E5-4F40-A7EE-CDCC91BFC57E"
+    },
+    {
+      "class": "group",
+      "id": "38014B5D-B738-4C0D-8153-B57DB603490E"
+    },
+    {
+      "class": "rectangle",
+      "id": "240FF73A-DF5D-41FB-9556-D2D498CCB28B"
+    },
+    {
+      "class": "rectangle",
+      "id": "6CD53EE9-9C12-42E8-876B-B320928FE783"
+    }
+  ],
+  "name": "Traineur",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEF74502-E897-40D0-9978-C3EA6F703332",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

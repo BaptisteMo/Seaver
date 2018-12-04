@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "352BCF6A-2A8A-4570-8F85-908733A076CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 30,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7CC447E8-70A0-46B6-A45F-730C2456E6DC"
+    },
+    {
+      "class": "text",
+      "id": "31B82646-DEAD-40DB-B537-C41D11A82EED"
+    },
+    {
+      "class": "text",
+      "id": "DF7F8F39-9D29-4E57-BC9F-8BAC49288E5B"
+    },
+    {
+      "class": "text",
+      "id": "4C4C4F70-08A4-49B3-B52E-291D0963F141"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA703007-8B53-4861-BFAA-D0ACF1DCB397"
+    },
+    {
+      "class": "rectangle",
+      "id": "8320DA2A-697E-4F25-BAC7-53D59D146667"
+    }
+  ],
+  "name": "Gainsboro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.8705882352941177,
+        "green": 0.8705882352941177,
+        "hex": "DEDEDE",
+        "name": "Gainsboro",
+        "red": 0.8705882352941177
+      }
+    }
+  }
+}

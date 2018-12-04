@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5E921061-6282-42BB-ADB8-5E346336E0F8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 5146,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E157B91-6ED9-475A-90DA-CD9F366A369F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CE0A1EE-F2A1-4D49-93E1-86536BAEC99B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "35987F92-D4DB-45D1-8040-543FD8EF9D41",
+    "height": 170,
+    "width": 328,
+    "x": 27775,
+    "y": 272
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A843506C-E3F3-49F0-86D9-711EA21024AE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B3176BE-ADEB-40CA-ABD5-7483B50941C7"
+    },
+    {
+      "class": "group",
+      "id": "9F3A8918-E518-47D9-B496-545304418982"
+    },
+    {
+      "class": "text",
+      "id": "1FB3BE69-F775-43FB-AB9C-601A1D15CEE4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 24,
+    "do_objectID": "7A6C382A-DC71-4F5F-9C57-22EBD8A6FE60",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 3.636363636363636,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 328
+  },
+  "name": "Card/DecallageGaucheDroit",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86975B72-7204-4979-B8DD-BABD02E669E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5F2C956-3908-4A20-A27E-331E41EECCD4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B92A6901-4B15-4990-8071-9FD09732717D",
+    "guides": [
+    ]
+  }
+}

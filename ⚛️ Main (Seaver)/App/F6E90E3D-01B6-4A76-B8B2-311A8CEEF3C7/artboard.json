@@ -1,0 +1,161 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "7DA2566B-B7F1-4AA0-BDE8-EE409EABA81A",
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6E90E3D-01B6-4A76-B8B2-311A8CEEF3C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57AA1D44-C32E-418D-9416-4A248D63DCA8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D812FE85-4156-4168-9D05-0A0A217E0F1D",
+    "height": 640,
+    "width": 360,
+    "x": -15442,
+    "y": -14890
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "61B8223E-D3B1-4651-A64F-E9BE85AAA4C2",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "672D58DF-3C08-417A-9C91-8FC198B94B5F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5D2569BC-D143-435E-B9B7-6A44A1265658"
+    },
+    {
+      "class": "bitmap",
+      "id": "E6151196-B6C4-4939-8D92-03CCD724E9E5"
+    },
+    {
+      "class": "group",
+      "id": "5F411918-F78C-48FF-AD31-53C275889E46"
+    },
+    {
+      "class": "text",
+      "id": "CBDBB642-D9BC-4FF6-90C4-650692826642"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBB6F083-21A1-4402-9EF2-C9C4A35097D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7479A556-DC73-4445-BDEF-4EC3AAC15972"
+    },
+    {
+      "class": "rectangle",
+      "id": "05F2B616-1E12-45EE-A0C7-9E0C914B1BFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFD93965-B1CC-4300-9603-5EE9E98F7632"
+    },
+    {
+      "class": "text",
+      "id": "4F8CED78-3965-41C5-B9B6-F276C20027D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9580D922-6B5A-4C35-A893-7759D05FC1E0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "tuto-phone / 2 / Carte training",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "770384BA-7331-4A7B-84AC-6AB6E50F6083",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0437FA10-AAC2-488C-AADF-F6056EC4F425",
+    "guides": [
+      392
+    ]
+  }
+}

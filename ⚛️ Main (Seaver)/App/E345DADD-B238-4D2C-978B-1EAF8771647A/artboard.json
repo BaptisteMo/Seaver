@@ -1,0 +1,154 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "855AFDC3-27DA-4CB7-BC88-A159B5D098CB",
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E345DADD-B238-4D2C-978B-1EAF8771647A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DC9438E-84AC-45B3-9A6B-C213C0B3C9B7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31628A03-8FF0-4F45-92B4-F1E71B0100B8",
+    "height": 640,
+    "width": 360,
+    "x": -16277,
+    "y": -6781
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7DC32C27-A035-44FE-A7BC-49E0075FC1AB",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B95DB90A-DB6F-41F5-8913-1C2D648B3AAB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8B4D2F27-B6C6-4531-84F3-031C3CF68209"
+    },
+    {
+      "class": "text",
+      "id": "EEBE4930-95CD-42C3-B938-13AE2483B0F5"
+    },
+    {
+      "class": "group",
+      "id": "887C3A5E-5692-44B5-B53C-C6A5ECC883E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74B0A9D3-551B-4495-9530-35D0733F890B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65E1B3D0-2157-42CC-9554-15D5F468961D"
+    },
+    {
+      "class": "text",
+      "id": "50ABE36A-3CB7-45BB-80B6-57A094EA66EB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "do_objectID": "F819E06A-3D67-4821-AD68-D1EAFF977F4D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "Share-horse/validé",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC499039-8338-4D9E-8B2E-E15F0FC3A269",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E73D256E-3C2A-4CE5-AA70-AA61E5CCCED7",
+    "guides": [
+    ]
+  }
+}

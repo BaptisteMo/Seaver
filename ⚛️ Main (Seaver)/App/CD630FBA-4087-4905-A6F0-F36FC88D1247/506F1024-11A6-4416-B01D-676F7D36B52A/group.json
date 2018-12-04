@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "506F1024-11A6-4416-B01D-676F7D36B52A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61A335AF-47B4-4F87-911C-87D44F9D3992",
+    "height": 47,
+    "width": 328,
+    "x": 16,
+    "y": 224
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5CF6FEDD-CA9B-4F44-A76A-EBCAE7787686"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22473B2D-E4D8-4F03-BE3F-D5122C07E63F"
+    },
+    {
+      "class": "oval",
+      "id": "8420B914-1B5C-4F4A-8050-81ECDEFFD46C"
+    }
+  ],
+  "name": "segment-Controle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CFFA804-D25E-4BF1-B1E1-36192FA02332",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

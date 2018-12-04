@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFD085C2-FC06-4A5E-B031-946280641E64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "4D3AC728-9A80-46F5-9C9B-B7E9A7468C54",
+    "do_objectID": "3BF891DC-36E9-4F3D-ACAE-EB745FBA2A5C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 160,
+    "x": 100,
+    "y": 813
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button  with icons/ medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B1DFA3D-8654-466C-B319-68041C831D2A",
+      "overrideName": "34EF81F8-FA0F-4E97-8BD4-4645F0009501_symbolID",
+      "value": "57A85B33-6013-428B-8939-98856410D603"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E03F38EB-7A87-4296-891C-481C71885A4C",
+      "overrideName": "34EF81F8-FA0F-4E97-8BD4-4645F0009501/AFB2067E-1676-411A-9523-43E5D619FAC0_symbolID",
+      "value": "1A95AC4B-91F7-4899-9206-9B14F4087F1E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CF108C1-4A25-4EAD-A1D4-131B162E55C5",
+      "overrideName": "CFF52E2F-CB9F-484B-83C2-4BCB4552CD3E/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Valider"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.052631578947368,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.52631578947368,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "161DC094-D9A8-457D-ABEB-D631C7ADB8B7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E12B1D6-EA38-408E-B229-18FD94DABB5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "F5B2D8DE-0F0E-4DC6-A9A4-FC4F92524D0C",
+    "do_objectID": "508EB769-684F-4B81-A076-15901F44B17F"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 328,
+    "x": 16,
+    "y": 358
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Outlined / Filled / Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6280C296-479C-4598-90CA-DB198D2C5B40",
+      "overrideName": "7D107BC2-E0AF-4EC8-8F8E-E7DAD4C9A3DD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68D1C759-6217-4B78-BE0B-1CF8F2C3E94E",
+      "overrideName": "6B4793BC-307A-429F-9566-835DD5342B46/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": "500"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3112712-7019-49AE-9F64-BC5E8154531F",
+      "overrideName": "6B473A04-11D9-497B-B40E-026552B37F42/17B6C92B-E096-40D0-A9A3-AF2428047033_stringValue",
+      "value": "Racontez votre séance"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EB48DA76-B090-4637-99B3-0FD8B5B8164E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "F5B2D8DE-0F0E-4DC6-A9A4-FC4F92524D0C",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

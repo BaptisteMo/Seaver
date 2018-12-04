@@ -1,0 +1,136 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 36739,
+  "clippingMaskMode": 0,
+  "do_objectID": "05FD3E32-7B14-4731-B11E-0D83B8FB597E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 360,
+    "x": 17965,
+    "y": 260
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "D04077A4-3104-4F13-9E11-317678572DA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF7360B6-BE57-4A01-82EC-55D698D79CA4"
+    },
+    {
+      "class": "group",
+      "id": "BFCD1EF2-1A67-4149-890D-B36E9FF7F561"
+    },
+    {
+      "class": "rectangle",
+      "id": "8E552A3E-015A-4C61-8D89-748C55E11BE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50F47546-E6E2-42FD-86E6-6CB868A53B8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7DF226F-43F8-4CC7-9AAF-6A5A0FE2609A"
+    },
+    {
+      "class": "text",
+      "id": "4B23D0ED-769E-4BA7-B6ED-A452F0A3EE59"
+    },
+    {
+      "class": "text",
+      "id": "FCA2818B-B94C-4EC1-B862-B6A8D43E9CBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81E73B34-9246-4D81-AAB3-DA6C02EF423A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "Toolbar / Calendar",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B957D437-6E6E-4EFF-AA6B-A3C7E380DC72",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

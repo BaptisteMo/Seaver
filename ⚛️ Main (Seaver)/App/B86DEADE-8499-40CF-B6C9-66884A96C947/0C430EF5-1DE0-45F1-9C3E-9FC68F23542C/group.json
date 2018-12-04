@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C430EF5-1DE0-45F1-9C3E-9FC68F23542C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E007808B-A9F3-4C68-80EF-9271BF4EAEF9",
+    "height": 83,
+    "width": 328,
+    "x": 16,
+    "y": 456
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "930DF7C9-7902-49A4-825E-CD477E4E53D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E877033A-887F-448F-A2EC-856E2314DD8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C4AAE5A-50C5-482D-AEC8-C19D433079CC"
+    }
+  ],
+  "name": "Radio-liste",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F948C454-DEEC-47E0-8B83-33E9CBD25904",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

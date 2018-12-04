@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B382BA31-BE9A-4E06-874D-58F88140E66C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43D65F01-AB0D-4A06-8E32-42100374A419",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8DBACC1-CBCE-4989-9ED8-75F4992A3867",
+    "height": 36,
+    "width": 328,
+    "x": 16,
+    "y": 152
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "166E9762-A2B6-4DE9-B5D0-B8430975C4C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE4EF1D5-3332-493C-A752-74A43C66F268"
+    },
+    {
+      "class": "text",
+      "id": "ED6A2D0C-90E9-46D5-8A91-E5B7206C51A8"
+    }
+  ],
+  "name": "Buttons / Block / google-connect",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96190E8E-D9BD-4BD2-A62E-AA8E303621BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "0E05BB06-823A-4AD0-9E00-61B72FA9FFA5",
+      "transition": 0
+    }
+  }
+}

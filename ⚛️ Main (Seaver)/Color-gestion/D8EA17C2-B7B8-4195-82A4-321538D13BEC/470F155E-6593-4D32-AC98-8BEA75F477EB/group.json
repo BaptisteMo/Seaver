@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "470F155E-6593-4D32-AC98-8BEA75F477EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 260,
+    "y": 969
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F5C4E5D3-3720-4C2D-B110-DBA173345F7B"
+    },
+    {
+      "class": "text",
+      "id": "F7019093-631F-4E9F-BF42-1EE34E40FC8D"
+    },
+    {
+      "class": "text",
+      "id": "CFBB8373-3753-4495-90D3-146EA3142C92"
+    },
+    {
+      "class": "text",
+      "id": "1C38526D-EAA9-421A-8B69-0C21CAD02103"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB20E939-3753-499D-A680-9BE50629E1B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "F09338B1-03BC-4930-B8FA-995B3EC6E5FF"
+    }
+  ],
+  "name": "Light gray",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.8549019607843137,
+        "green": 0.8274509803921568,
+        "hex": "D6D3DA",
+        "name": "Light gray",
+        "red": 0.8392156862745098
+      }
+    }
+  }
+}

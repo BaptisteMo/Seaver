@@ -1,0 +1,81 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "590850AB-F789-49D9-A29F-9C89523E825C",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "683759A6-1B4B-464D-A430-A3C370B07495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A879A890-DE32-42B9-8BE4-B0663EE8D97F",
+    "height": 27.7334795992808,
+    "width": 26.02045112782014,
+    "x": 347.0354147194091,
+    "y": 136.5878844431104
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.35359116022099502, 0.66840052015604712}",
+      "curveMode": 4,
+      "curveTo": "{0.26381215469613234, 0.30949284785435582}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.4876462938881666}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.90607734806629736, 0.65799739921976552}",
+      "curveMode": 4,
+      "curveTo": "{0.66436464088397873, 0.82704811443433046}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.5027624309392269, 0.14824447334200272}",
+      "curveMode": 4,
+      "curveTo": "{0.81906077348066253, 0.34330299089726934}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.72375690607734788, 0}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F99DA11-D110-4DC4-8842-6230AED704FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

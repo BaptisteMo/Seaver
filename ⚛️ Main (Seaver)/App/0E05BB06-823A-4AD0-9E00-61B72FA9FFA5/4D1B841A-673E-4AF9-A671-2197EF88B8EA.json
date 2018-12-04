@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D1B841A-673E-4AF9-A671-2197EF88B8EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FB0FC7D-2359-48F2-8B7E-C052E68DA93C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "5D127A8C-B791-4D5D-AA40-7C2BCC547E5B",
+    "do_objectID": "8CFAEC56-261D-4F9C-A41F-497645786049"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03931E45-F250-4775-93C2-864287B627A0",
+    "height": 40,
+    "width": 160,
+    "x": 100,
+    "y": 552
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons /Button  Solo / medium",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E073D795-B26C-4A3B-8071-51CAEBA64F88",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/B9145D97-AF20-4A79-9990-A2D5DBE4917F/98A5DDBC-F14C-40E6-A526-71CFC859CF6E_symbolID",
+      "value": "220CB73D-890B-48C3-A401-1F2226EDA46D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B662AF75-366F-4171-BD64-D6C75FB6B7DF",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "C'est parti !"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0AD65BA-E9F2-43A3-8126-661B2CC0FA30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

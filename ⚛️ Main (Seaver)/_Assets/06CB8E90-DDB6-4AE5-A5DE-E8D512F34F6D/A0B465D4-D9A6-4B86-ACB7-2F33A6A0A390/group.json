@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0B465D4-D9A6-4B86-ACB7-2F33A6A0A390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 280,
+    "x": 0,
+    "y": 330
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2403BE1F-89D8-41A4-BEF8-C9F08872D5DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27B131EC-DC80-40A9-8F15-D65D2BF3411A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01F91969-1E1C-4384-A68F-BA6C46C29C43"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C24FEBF-4C80-4058-9689-50B95D13FFB7"
+    }
+  ],
+  "name": "Botom",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

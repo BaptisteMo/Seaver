@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F7602BD2-1324-4532-B80A-A3CA0813F299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "066840F2-A06A-4261-9540-C319AFF5D34C",
+    "height": 374,
+    "width": 328,
+    "x": 16,
+    "y": 91
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3BD01E00-C993-40E0-A3D5-A318BCC7502C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C8A0A43-A309-4F0A-976A-6EA659FB88B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3954B2B4-AFAE-4CC4-BE59-EFF83945D131"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF026949-6616-4C17-91A2-CBCCF59A7F70"
+    }
+  ],
+  "name": "horse-info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A000075-ADDC-49A8-A07E-D4A61D840B4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

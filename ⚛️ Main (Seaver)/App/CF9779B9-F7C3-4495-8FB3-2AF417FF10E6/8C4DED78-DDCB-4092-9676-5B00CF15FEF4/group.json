@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C4DED78-DDCB-4092-9676-5B00CF15FEF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C8E528C-3485-4AAC-B4D1-816BA5E7918E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C744EA1-7FCD-4C5E-B3BE-2B4130DB8FD1",
+    "height": 106,
+    "width": 340,
+    "x": 4,
+    "y": 1792
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7C035D60-EC7D-4CF3-B22F-8CC2C75D03E5"
+    },
+    {
+      "class": "group",
+      "id": "34D8ADA6-33EB-41B0-8D96-632DEE19C3E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8CBBF18-57FB-42FE-8C4B-088D25AA7D8D"
+    }
+  ],
+  "name": "SYM",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "247B60AE-8786-4428-A308-9BA00FB8F0BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

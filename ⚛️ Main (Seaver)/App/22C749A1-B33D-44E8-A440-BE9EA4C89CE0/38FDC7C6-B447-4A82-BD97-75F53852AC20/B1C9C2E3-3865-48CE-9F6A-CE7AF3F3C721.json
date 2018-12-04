@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1C9C2E3-3865-48CE-9F6A-CE7AF3F3C721",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49FE5B6D-BCEA-432A-A30E-9DEAC53CFE31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "F6E90E3D-01B6-4A76-B8B2-311A8CEEF3C7",
+    "do_objectID": "25EBFB4C-2C68-4795-A09D-33B9094EBAF9"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F0ECDDF-7D10-4D1A-8B47-9FA4CF9B83DB",
+    "height": 40,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "register",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/4F977614-13BB-4189-987F-7C37E4BE5420/98A5DDBC-F14C-40E6-A526-71CFC859CF6E_symbolID",
+      "value": "220CB73D-890B-48C3-A401-1F2226EDA46D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3ED646AB-977D-4246-91C7-AD709A89FB83",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E_symbolID",
+      "value": "B519DBEE-B6A4-4B3D-9D15-BBFECDDEB7B2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1436041B-4544-4B24-B6F0-03D7B708EC46",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "S'enregistrer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6C826ED-BFC6-432D-A165-2D8C0BB428A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

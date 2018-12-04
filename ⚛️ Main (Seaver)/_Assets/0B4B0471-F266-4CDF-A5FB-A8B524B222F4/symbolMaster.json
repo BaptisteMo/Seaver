@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1417,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B4B0471-F266-4CDF-A5FB-A8B524B222F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 360,
+    "x": 9407,
+    "y": 244
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0193CB52-0E8A-4951-A5E3-22BEC7565EC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "298A073B-CF69-4725-934F-45436CB1782A"
+    },
+    {
+      "class": "text",
+      "id": "A3F2A73A-9692-4B34-94EC-EA2E171214D7"
+    },
+    {
+      "class": "text",
+      "id": "71B22C39-9EE5-4364-B672-8EC793B892B3"
+    },
+    {
+      "class": "text",
+      "id": "AA214A9A-EB69-4777-802A-BDE1CA9F7410"
+    },
+    {
+      "class": "rectangle",
+      "id": "8176D97D-157F-4E05-971A-07D612ABE4FB"
+    }
+  ],
+  "name": "List / Thumbnails",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "91B0CEC9-E5DA-49DF-B451-952C66CF77AD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

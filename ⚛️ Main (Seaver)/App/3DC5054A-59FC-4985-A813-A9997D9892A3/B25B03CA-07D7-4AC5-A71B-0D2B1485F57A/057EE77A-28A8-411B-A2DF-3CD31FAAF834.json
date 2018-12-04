@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "057EE77A-28A8-411B-A2DF-3CD31FAAF834",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "AF77A5C0-E909-4F33-A321-7E620EEBC357",
+    "do_objectID": "B4103246-E39D-40B2-8726-0B2375C25E3E"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Avatar 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1ACA8F32-0E17-45F6-BB93-EF3535B90505/951E2210-62DF-4ABF-8FA8-C21F8FBD7A11_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/672f90031aa02162cac42c7ae2c29cf18b8e18dd.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "88CBD887-B878-452E-BB67-6FFF286FA40B_stringValue",
+      "value": "Lilly Russell"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5557903C-672C-41AC-8C7E-1DF7F787B775_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "595FD71D-706D-4154-99BF-EF46261FC977_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4d6f888ff43b7fdb2509bc6a80d2bf32370dcd81.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10698BE7-F0A6-4995-869F-734AEB34E8B3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "AF77A5C0-E909-4F33-A321-7E620EEBC357",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA744EAF-B509-4EBB-B146-FE89109E4D36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 490,
+    "y": 656
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B1506E45-A9AB-4A2F-AE05-929E804F28D1"
+    },
+    {
+      "class": "text",
+      "id": "DE641582-5655-4C75-8D76-FEE4ECF4766E"
+    },
+    {
+      "class": "text",
+      "id": "CC7163E1-44F7-434B-9C71-F248DD36D710"
+    },
+    {
+      "class": "text",
+      "id": "3093C1AE-B8B3-4AF6-A3F4-547EB2DB9527"
+    },
+    {
+      "class": "shapePath",
+      "id": "64E7958A-7FC6-4AF0-85D2-6B9FCC5F6DE8"
+    },
+    {
+      "class": "rectangle",
+      "id": "E85D90E5-9D4F-4FFD-A783-1D94FF725572"
+    }
+  ],
+  "name": "Timberwolf",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.8156862745098039,
+        "green": 0.8392156862745098,
+        "hex": "E3D6D0",
+        "name": "Timberwolf",
+        "red": 0.8901960784313725
+      }
+    }
+  }
+}

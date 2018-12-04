@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "866E6F54-8B4B-40EB-B1AB-9E9B5BA8AB39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C502415F-C854-474B-B8F7-6624525C9F4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "22C749A1-B33D-44E8-A440-BE9EA4C89CE0",
+    "do_objectID": "09220702-49B4-4964-AE95-B3D7981B2729"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3DF21B6-BF4E-4C6A-BDA9-90D885F5FB6A",
+    "height": 40,
+    "width": 272,
+    "x": 44,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons - sangle",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0A51FE5-BA4A-4E01-B0BC-B01D8CFB976B",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E_symbolID",
+      "value": "B519DBEE-B6A4-4B3D-9D15-BBFECDDEB7B2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB85AD3E-A7A2-4CFB-91DE-6C57FE7A9C8C",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Vous possédez une sangle"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F49F7A5-90C0-4B8E-BC79-83BBFA4EBDDA",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "3C1BA996-60EB-44C0-9CCC-D63E6C3289A7",
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D591E6C-B7A4-4AB0-AD23-50ECE64F6B89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17ED127F-F50D-405B-89BE-49D140DE311E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D1A5634-151E-41E8-9218-8CBDF44B0A4F",
+    "height": 640,
+    "width": 360,
+    "x": -18137,
+    "y": -14890
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "85C74957-C406-40DE-A154-D20569B3C30C",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ADA3C564-5508-48B2-961D-A4703B96B6B9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2C6B403F-4C6D-47D7-98AE-CC9B8EB338B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "635C4543-D06A-4625-B8C6-8C7A0EF5FFDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F923D7C-D845-4285-907D-3B8E778A42F2"
+    },
+    {
+      "class": "rectangle",
+      "id": "04377DCC-BDED-4402-8C09-31510CE8056A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B5F5D67-5120-4818-B24E-9A20D8C47067"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "tuto-phone / 2 / Accueil Seaver",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79AA6822-A91D-4569-87D0-673D87CDDC9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5DF0F673-49A5-401D-AAF2-6E3E0F50CC91",
+    "guides": [
+    ]
+  }
+}

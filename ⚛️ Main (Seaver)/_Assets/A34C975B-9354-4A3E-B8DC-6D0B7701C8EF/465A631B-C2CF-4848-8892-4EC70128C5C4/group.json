@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "465A631B-C2CF-4848-8892-4EC70128C5C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AF557B59-9E0A-4ED4-AE5B-934DCD43C46D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8D060DD-5204-4E83-9394-BA77A3D9B095"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6689E8D7-EF68-4B9F-A799-EC6A5111F4F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C544441F-E41E-47B4-8B9A-1B50E26D8A92"
+    },
+    {
+      "class": "text",
+      "id": "CB1FE0F4-FF0B-4FA4-86BB-7CA339E82F94"
+    }
+  ],
+  "name": "foulée-card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

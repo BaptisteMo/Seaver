@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "467583F5-6805-49A6-8635-768AF976BC10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 136,
+    "width": 328,
+    "x": 375,
+    "y": 259
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A825F6AD-F4DF-471E-B643-F3CA18ECB184"
+    },
+    {
+      "class": "rectangle",
+      "id": "3417D320-D838-492F-8066-D4A521FD7489"
+    },
+    {
+      "class": "group",
+      "id": "D7FDEF49-AC00-4381-B840-06E27B037B2B"
+    },
+    {
+      "class": "text",
+      "id": "3695EE1D-B431-460A-A03E-B6F6961D6620"
+    },
+    {
+      "class": "group",
+      "id": "47A39DE5-1604-46F1-BCF8-C83D716FB6E2"
+    }
+  ],
+  "name": "Allure - Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

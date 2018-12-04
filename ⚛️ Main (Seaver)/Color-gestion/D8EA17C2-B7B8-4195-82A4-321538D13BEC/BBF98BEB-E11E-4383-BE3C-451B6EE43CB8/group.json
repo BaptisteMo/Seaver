@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBF98BEB-E11E-4383-BE3C-451B6EE43CB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 200,
+    "x": 720,
+    "y": 343
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E4371CA3-8A94-41DF-9951-644963F4343A"
+    },
+    {
+      "class": "text",
+      "id": "2C6811D7-ACA8-43D1-BA93-26284FEA66CC"
+    },
+    {
+      "class": "text",
+      "id": "968CE928-CC3F-4488-B88A-02AFA25BDC78"
+    },
+    {
+      "class": "text",
+      "id": "BFE7981B-267B-41DE-8C15-1E6642D2FB8D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3112E31-78B7-41A7-9374-7F1A6AE2264C"
+    },
+    {
+      "class": "rectangle",
+      "id": "63EB7418-62FC-4B51-BC43-CB736508A129"
+    }
+  ],
+  "name": "Carmine pink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.3137254901960784,
+        "green": 0.3254901960784313,
+        "hex": "EF5350",
+        "name": "Carmine pink",
+        "red": 0.9372549019607843
+      }
+    }
+  }
+}

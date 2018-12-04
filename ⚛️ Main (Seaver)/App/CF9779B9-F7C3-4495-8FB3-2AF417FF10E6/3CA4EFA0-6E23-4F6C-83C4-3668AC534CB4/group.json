@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CA4EFA0-6E23-4F6C-83C4-3668AC534CB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A74ADFE-D072-4428-BEC4-650779CA146D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7218F84B-A2E8-4803-88E6-B992F6F86C51",
+    "height": 106,
+    "width": 328,
+    "x": 16,
+    "y": 1348
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8843FA76-2140-42F8-BC24-DBC90FF0746F"
+    },
+    {
+      "class": "group",
+      "id": "50FB9230-E6F5-4D40-B522-7AA637679768"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42E82467-5648-4844-8C23-AB4AAF8B4969"
+    }
+  ],
+  "name": "CADANCE",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E5615E0-BC46-42AE-9325-D5C11457702C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "51C8CE5F-5C83-4DAA-B3A6-F6D8C2164B37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0AA038BC-B1B4-46CA-8A9E-2489449B4A66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "7CBB3207-9C4F-409D-83E9-596E8594ACD5",
+    "do_objectID": "AEC03BF5-5B01-42A1-AA26-43D4F7962119"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "07D77575-C384-4F4B-AFA0-970EBC1568C5",
+    "height": 32,
+    "width": 32,
+    "x": 12,
+    "y": 84
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": " Button icon only/ Small Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38716147-A3E0-407F-8D22-1938AAD06FA0",
+      "overrideName": "A6A35BEB-8830-4DF4-AC5C-8BA6BBED72BF_symbolID",
+      "value": "75968353-86AF-46E4-B597-C45669094DEC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "760A922B-74D2-4710-B45C-3678021DF843",
+      "overrideName": "A6A35BEB-8830-4DF4-AC5C-8BA6BBED72BF/F6691FB3-4E39-4F01-8DFE-BB045137EFEC_symbolID",
+      "value": "6C25A65A-EB4B-4333-AD75-9C692429C377"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0545F01-AFC5-4A5A-A8C4-0D3950CDF38E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3456E920-8740-4D36-B63E-ACB7DDDE2716",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_9dca7b48-8455-4d57-b19d-a4403166ed67",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_cbdf2a55-d646-44d7-8d41-ce2059f2a2f9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

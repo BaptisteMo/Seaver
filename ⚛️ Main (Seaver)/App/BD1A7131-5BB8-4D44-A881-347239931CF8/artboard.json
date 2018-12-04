@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "6899FEAF-2E46-4F5B-A231-D2945584986F",
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD1A7131-5BB8-4D44-A881-347239931CF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "704A114E-8856-4B3F-BCBC-C8B101859CAD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB1FC6A5-4046-479E-A4BE-F6F0F335919F",
+    "height": 640,
+    "width": 360,
+    "x": -17235,
+    "y": -14890
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "72CEBA2C-D3E1-44F9-A769-13BC3805D754",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BB78025F-8D1A-4FF5-AC9E-98014F1A3109",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9A6A40DA-C498-4ECC-838F-A2E5674BCC9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B955202E-9C9B-46C7-8EFF-30F82FDBB8A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1669C217-127A-4BE6-B9B2-7D2BEF9B7E11"
+    },
+    {
+      "class": "text",
+      "id": "9FF68E00-E0E2-4959-91B6-C0E1900AC463"
+    },
+    {
+      "class": "text",
+      "id": "6819029D-46F0-4804-876D-755C32693B21"
+    },
+    {
+      "class": "bitmap",
+      "id": "E1B760C0-F972-4D71-AE36-A0A700E05A0F"
+    },
+    {
+      "class": "text",
+      "id": "CB87BB48-9709-4A13-904D-808360D5B99D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 20,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 16,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 328
+  },
+  "name": "tuto-phone / 2 / Bienvenue",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D0060AA-E66F-46C8-8655-90B998E5E65D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FE49D352-3F00-4D93-A065-4EC1D1D59DF4",
+    "guides": [
+    ]
+  }
+}

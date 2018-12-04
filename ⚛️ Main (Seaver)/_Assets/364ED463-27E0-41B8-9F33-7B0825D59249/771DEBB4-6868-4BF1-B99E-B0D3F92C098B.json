@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "771DEBB4-6868-4BF1-B99E-B0D3F92C098B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 24,
+    "y": 28
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Default / ios-sunny",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED4977B0-A899-423E-830C-759CCBFA2082_symbolID",
+      "value": "AFC21077-26B4-45AA-ADE6-EC17F54AE817"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D1E5FBBB-150F-4728-8ED2-1B4D87D7E2CB_symbolID",
+      "value": "AFC21077-26B4-45AA-ADE6-EC17F54AE817"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BABB6DCE-37F4-4F1D-86B0-807692608A62_symbolID",
+      "value": "AFC21077-26B4-45AA-ADE6-EC17F54AE817"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C1A73793-72CF-45FE-90BD-243F37F614FC_symbolID",
+      "value": "1F2B9605-72AE-43FA-A07A-701A0E60E7AF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "192ECB7E-B059-4A02-8B0D-E994E0B15D35",
+      "overrideName": "403EC584-8D49-445A-B3CB-CD021CF7F964_symbolID",
+      "value": "D87D8D77-F1F7-493A-B0D7-2A7D02944A40"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4657E2CF-83FA-400D-9EE9-A13E63C9B288",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_5d4f95d8-df41-4997-b4b4-ada2d0b6bed8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_da52eee8-8990-44fb-8405-a3834b0f79b1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

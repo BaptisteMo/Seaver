@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "635C4543-D06A-4625-B8C6-8C7A0EF5FFDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBFA7596-94AD-4DD2-8966-73B5239B7341",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "3B19E103-8635-4255-AEDD-341A4EAED9E2",
+    "do_objectID": "DDA82C43-0BB8-4EEA-BDD5-DFCF3B5340EE"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78B4A4B0-7C7C-4DE9-8432-91C657596BEA",
+    "height": 40,
+    "width": 160,
+    "x": 100,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons - Découvrir",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/EA93BEA1-56C2-4519-A72C-19A142A430A0/BEE22111-D02B-45E2-9779-0582596F1346_symbolID",
+      "value": "3889C6A7-C780-4904-9A67-072CF4184BAB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "648FCA92-A0B7-4D4C-9BD7-213B71013E1A",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Découvrir"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F68C98FE-E159-4E60-8301-55D87F5ECD22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

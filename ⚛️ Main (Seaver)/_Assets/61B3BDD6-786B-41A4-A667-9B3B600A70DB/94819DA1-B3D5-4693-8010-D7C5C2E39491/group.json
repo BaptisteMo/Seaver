@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "94819DA1-B3D5-4693-8010-D7C5C2E39491",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DCC1FA6-CDE8-44EF-AD49-EE8DD221486F",
+    "height": 4,
+    "width": 275,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "28C10751-4210-4072-ABA0-AA720B4B2709"
+    },
+    {
+      "class": "group",
+      "id": "46C64DCF-B4F4-485A-B1E2-B8C6AED1A359"
+    },
+    {
+      "class": "group",
+      "id": "573A2810-032C-40B7-B2D9-97C870552E86"
+    },
+    {
+      "class": "group",
+      "id": "6D0D672F-E525-4784-89C7-E6D399216098"
+    },
+    {
+      "class": "group",
+      "id": "CE5962DA-469A-458D-AAFC-816DE99F74FF"
+    },
+    {
+      "class": "group",
+      "id": "44B272E8-E099-49FE-A9ED-A7439B6F6E4B"
+    }
+  ],
+  "name": "element/graphe/Allure",
+  "nameIsFixed": true,
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D2B6337-0367-4239-97FF-8680590DAAE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 1,
+        "isCollapsing": 1,
+        "spacing": 4,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

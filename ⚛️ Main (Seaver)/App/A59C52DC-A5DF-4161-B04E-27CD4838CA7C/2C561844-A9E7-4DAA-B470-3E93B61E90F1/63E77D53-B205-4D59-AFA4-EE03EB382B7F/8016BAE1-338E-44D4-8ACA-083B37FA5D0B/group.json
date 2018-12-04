@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8016BAE1-338E-44D4-8ACA-083B37FA5D0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8763580-C9BF-445E-A304-77A63FCDA7D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F036AD0-CBC8-4498-BA3D-B21421F6B6C3",
+    "height": 20,
+    "width": 48,
+    "x": 269,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2E023426-8D3C-42E0-9E74-AC54806933E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7326F6A5-774D-4DA4-84AF-F3682A5BEFAF"
+    }
+  ],
+  "name": "note-training",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CDD0F8D-4888-4522-9AA1-2AD9DFC3F455",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 1
+      }
+    }
+  }
+}

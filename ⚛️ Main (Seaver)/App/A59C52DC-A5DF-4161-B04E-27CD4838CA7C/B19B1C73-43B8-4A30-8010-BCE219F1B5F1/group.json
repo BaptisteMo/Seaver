@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B19B1C73-43B8-4A30-8010-BCE219F1B5F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8466A77-AB9E-49A1-9C00-4D2540CC7AC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3700830-ECBE-4B85-9BDE-2D4FF72DC216",
+    "height": 251,
+    "width": 330,
+    "x": 15,
+    "y": 708
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "99DE8971-A3C9-44A4-9544-4DC6EEC09970"
+    },
+    {
+      "class": "group",
+      "id": "644CBF4F-0F07-4AC4-B1A5-48DAB9BE8731"
+    }
+  ],
+  "name": "Jump",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4CDD7A9-0C87-4BE6-97DC-E8201499F375",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

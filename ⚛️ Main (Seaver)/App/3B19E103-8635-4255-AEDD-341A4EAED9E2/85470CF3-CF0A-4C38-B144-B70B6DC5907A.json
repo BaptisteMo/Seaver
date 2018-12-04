@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85470CF3-CF0A-4C38-B144-B70B6DC5907A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79620666-F8CB-4BC0-83DF-5092C2C825D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "BD1A7131-5BB8-4D44-A881-347239931CF8",
+    "do_objectID": "F9DAE541-9CBA-4BD8-8C1B-F207ED21E410"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF348BA3-7D62-4E2B-9EB0-B35AA16FF4D3",
+    "height": 40,
+    "width": 272,
+    "x": 44,
+    "y": 512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons - Découvrir",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E/EA93BEA1-56C2-4519-A72C-19A142A430A0/BEE22111-D02B-45E2-9779-0582596F1346_symbolID",
+      "value": "3889C6A7-C780-4904-9A67-072CF4184BAB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A37E1BC7-AC49-4103-8B16-B61E6FDB6C16",
+      "overrideName": "3D5C3B5B-D960-47AE-A269-41600857299E_symbolID",
+      "value": "B519DBEE-B6A4-4B3D-9D15-BBFECDDEB7B2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE1A876E-4A8F-4B0E-9A0A-672C8BA8F4C0",
+      "overrideName": "01A437D5-C067-475A-9A7B-990B63AF3280/7D3A1F44-97F9-48BA-979A-4C74C3E2ACF1_stringValue",
+      "value": "Découvez notre application"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFA8B590-968E-432F-9DD0-CEA3E87C3619",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F046B541-874C-4983-99B6-B5145B82C519",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

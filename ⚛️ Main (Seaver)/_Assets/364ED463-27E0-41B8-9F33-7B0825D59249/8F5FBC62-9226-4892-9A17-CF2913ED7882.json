@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F5FBC62-9226-4892-9A17-CF2913ED7882",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 313,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Default / ios-sunny",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED4977B0-A899-423E-830C-759CCBFA2082_symbolID",
+      "value": "AFC21077-26B4-45AA-ADE6-EC17F54AE817"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D1E5FBBB-150F-4728-8ED2-1B4D87D7E2CB_symbolID",
+      "value": "AFC21077-26B4-45AA-ADE6-EC17F54AE817"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BABB6DCE-37F4-4F1D-86B0-807692608A62_symbolID",
+      "value": "AFC21077-26B4-45AA-ADE6-EC17F54AE817"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C1A73793-72CF-45FE-90BD-243F37F614FC_symbolID",
+      "value": "1F2B9605-72AE-43FA-A07A-701A0E60E7AF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44C8F41B-993B-4D99-B95C-42F78DAD499E",
+      "overrideName": "864C7625-2C5C-446F-B08D-445756F812A3_symbolID",
+      "value": "EFE30BA9-E2B9-4BD4-B03B-99A711A7A5A3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95A96ECB-E4EF-4604-BD56-2B2648FEEC6A",
+      "overrideName": "864C7625-2C5C-446F-B08D-445756F812A3/234B86D0-B3F6-4037-8ABE-91E35B74E1A3_layerStyle",
+      "value": "459AD6CA-229A-4156-B1DB-79E7A156C670"
+    }
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE026148-141A-4C00-B00F-8C72FA831251",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_725205c2-39e6-444b-b222-984e7b4b3543",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8cf5e76b-b584-48e8-baa0-a328682336e0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
